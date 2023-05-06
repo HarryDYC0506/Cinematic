@@ -4,7 +4,7 @@ Made By: Harry Chou
 
 Key requirements for this assignment:
 - **3+ scenes**: I made a studio logo scene, a seizure warning scene, and a main menu scene.
-- **2+ audio assets**: I made a studio jingle and a looping menu theme, all created using FL Studio.   
+- **2+ audio assets**: I made a studio jingle and a menu theme on loop, all created using FL Studio.   
 - **2+ image assets**: My studio logo was hand drawn using Krita, and the river photo was took with iPhone camera 3 years ago.
 - **2+ geometric shapes**: I made a rectangle and circle shapes to represent the game progress.
 - **1+ logotype**: My game logo is hand written using Krita.
